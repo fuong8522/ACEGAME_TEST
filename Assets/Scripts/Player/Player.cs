@@ -56,9 +56,6 @@ public class Player : MonoBehaviour
 
     //Jump demo
 
-    public BoxCollider2D boxCollider2;
-    public Rigidbody2D rb2;
-    public LayerMask layerMask2;
 
     public float jumpForce2;
     public float jumpTime2;
